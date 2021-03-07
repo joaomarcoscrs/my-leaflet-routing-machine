@@ -1,0 +1,56 @@
+{
+  "_from": "@types/leaflet-routing-machine@^3.2.2",
+  "_id": "@types/leaflet-routing-machine@3.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Yodc0TbYppWfgV597fGejbldygQ3C83ck22Y17jMmO7h7aIFzoZUTGaoi20eZ4m9/3X9YPJv9V13IYmRGdzk0w==",
+  "_location": "/@types/leaflet-routing-machine",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/leaflet-routing-machine@^3.2.2",
+    "name": "@types/leaflet-routing-machine",
+    "escapedName": "@types%2fleaflet-routing-machine",
+    "scope": "@types",
+    "rawSpec": "^3.2.2",
+    "saveSpec": null,
+    "fetchSpec": "^3.2.2"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/leaflet-routing-machine/-/leaflet-routing-machine-3.2.2.tgz",
+  "_shasum": "cddc9f9208b44b2f37be66bddd2fe8beaf8a921f",
+  "_spec": "@types/leaflet-routing-machine@^3.2.2",
+  "_where": "/home/joaomarcos/buser/buser-encomendas/busertracking/frontend",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Chanaka Rathnayaka",
+      "url": "https://github.com/chanakadrathnayaka"
+    }
+  ],
+  "dependencies": {
+    "@types/leaflet": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for leaflet-routing-machine",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/leaflet-routing-machine",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/leaflet-routing-machine"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.9",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "393e6b2456d60fa193a2751a998964c41b4bfdcc3d24e771146bec0fa96d8de5",
+  "version": "3.2.2"
+}
